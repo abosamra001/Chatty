@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">chatty</string>
+    <string name="facebook_app_id">1801694236945927</string>
+    <string name="fb_login_protocol_scheme">fb669ca860890a365457223f2f3d731fef</string>
+    <string name="facebook_client_token">YOUR_CLIENT_TOKEN</string>
+    
+</resources>
